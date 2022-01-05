@@ -1,0 +1,61 @@
+6 Probleme Umsetzung
+Beim Bau einer Photovoltaik-Freiflächenanlage kann mit einigen Problemen bei der Umsetzung gerechnet werden.
+ Vor allem sollte ein besonderes Augenmerk auf das Erlangen einer Baugenehmigung gelegt werden.
+ Eine Baugenehmigung ist erforderlich, wenn gebäudeunabhängige Solaranlagen eine Höhe von 2,75 m und eine Länge von 9 m überschreiten (LBO SH § 63 Abs.
+ 1 2009).
+ Gleichzeitig ist aber auch eine Mindestfläche einer Freiflächenanlage von 20.
+000 m² vorgeschrieben (FUCHS 2021).
+ 
+Eine Baugenehmigung muss bei der zuständigen Bauaufsichtsbehörde beantragt werden.
+ Aufgrund langwieriger Erstellungen von Bebauungsplänen kann die Genehmigung abhängig von der Gemeinde einen längeren Zeitraum in Anspruch nehmen.
+ Aus diesem Grund ist eine frühzeitige Beantragung sehr wichtig (FUCHS 2021).
+ Ist die Baugenehmigung erteilt worden, sollte auch zügig mit der Umsetzung begonnen werden; denn nach drei Jahren nach der Erteilung erlischt die Genehmigung.
+ Etwaige Unterbrechungen der Bauphase sollten auch möglichst vermieden werden, denn wird die Arbeit für ein Jahr unterbrochen, erlischt die Genehmigung ebenso (LBO SH § 75 Abs.
+ 2.
+ 2009).
+
+Bei der Auswahl einer Fläche für die Freiflächenanlage muss weiterhin beachtet werden, dass es Vorrangflächen gibt und einige Flächen vom Naturschutz her nicht dafür geeignet sind.
+ In der Nähe von Naturschutzgebieten, Wasserschutzgebieten, kulturell bedeutenden Orten, Baudenkmälern und Orten mit ähnlichen Einschränkungen ist eine Errichtung von Photovoltaik-Freiflächenanlagen ausgeschlossen.
+ Die Gemeinde legt bei der Genehmigung auch etwaige Auswirkungen auf die Landschaftsgestaltung und touristische Nutzung in die Gewichtung.
+ Sind in unmittelbarer Nähe schon Hochspannungsleitungen oder Windkraftanlagen errichtet worden, werden diese Bauvorhaben eher genehmigt (FUCHS 2021).
+
+Vorzugsweise werden sogenannte Konversionsflächen für eine Freiflächenanlage frei gegeben; darunter fallen zum Beispiel ehemalige militärisch genutzte Flächen oder frühere Mülldeponien.
+ Landwirtschaftlich genutzte Flächen werden nur unter Ausnahmen als Freifläche ausgewiesen; so zum Beispiel in landwirtschaftlich benachteiligten Gebieten.
+ Wohingegen ökologisch wertvolle sowie hochwertige landwirtschaftliche Flächen bei der Genehmigung meist abgewiesen werden (N.
+ N.
+).
+ 
+Im Zuge des Baugenehmigungsverfahrens werden ein umfassender Umweltbericht verfasst und die Träger öffentlicher Belange mit einbezogen.
+ Der Naturschutzbund sieht in Bezug auf den Umweltbericht Nachteile für die Flora und Fauna auf der Freifläche.
+ Durch punktuelle Versieglung und die Beschattung des Untergrundes aufgrund der Anlagen verändert sich der Bodenwassergehalt und es kann zu Erosion kommen, wodurch wiederum Lebensräume zerstört werden können.
+ Werden um die Anlage Zäune zur Sicherung errichtet, kann sich das zum Nachteil für verschiedene Tierarten auswirken; vor allem große Tiere werden dadurch in ihrem Lebensraum beeinträchtigt.
+ Durch eventuelle Wartungsarbeiten und schon in der Bauphase können seltene Tierarten wie die Großtrappe in ihrem Brutgebiet beeinträchtigt werden (NABU).
+ 
+Diesen Problemen kann aber bestmöglich entgegengewirkt werden.
+ Durch das Stilllegen der Fläche wird eventuell eine vorher intensiv landwirtschaftlich genutzte Fläche stillgelegt und nur noch extensiv bewirtschaftet; die Fläche wird nur noch regelmäßig gemäht, um die volle Funktionstüchtigkeit der Anlage zu gewährleisten, und es erfolgt keine Düngung mehr.
+ Zur Pflege der Flächen können im Herbst auch Schafe genutzt werden, sodass keine Maschinen eventuelle Schäden an den Anlagen verursachen können.
+ Beim Mähen kann der Zeitraum an Brutzeiträume angepasst werden und gleichzeitig können auf der Fläche Honigbienen zum Einsatz kommen, was einen Beitrag zur Artenvielfalt darstellt (PARTHEYMUELLER 2012).
+ 
+Wird eine Freiflächenanlage in der Nähe von Wohnhäusern errichtet, sollte im Vorfeld mit den dort lebenden Eigentümern gesprochen werden.
+ So kann es bei Sonnenschein zu Reflektionen auf den Solarplatten kommen und die Anwohner könnten sich in ihrem Lebensumfeld beeinträchtigt fühlen; auch könnten sie sich durch den Einschnitt in die Landschaft in ihrer Lebensqualität benachteiligt fühlen.
+ Um dem entgegenzuwirken, kann eventuell ein Korridor durch die Fläche geführt werden, um keine Nachteile für Wild oder Spaziergänger zu haben (AIGNER et al.
+ 2009: 4).
+ 
+Vor allem zum jetzigen Zeitpunkt, wo der Ausbau von Solaranlagen immer weiter voranschreitet, sollten eventuelle Lieferengpässe bedacht werden, welche durch die Lieferschwierigkeiten auf der Asien-Europa-Route noch verstärkt werden.
+ Außerdem gibt es einen Personalmangel für die Installation solcher Module, sodass der gesamte Bau weit vorausgeplant werden muss (N.
+ N.
+ 2021).
+ 
+
+Aigner, H., Becher, R., Beck, J., Henze, A., Horn, A., Schrimpff, E. (2009): Leitfaden zur Zulassung von Photovoltaik-Freiflächen-Anlagen. https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj81q-KrJP1AhUcSfEDHeREA1EQFnoECAMQAQ&url=https%3A%2F%2Fwww.clearingstelle-eeg-kwkg.de%2Fsites%2Fdefault%2Ffiles%2FLeitfaden_Zulassung_Freiflaechenanlagen_fuer_Gemeinden_ABSI.pdf&usg=AOvVaw0uZYPaTK_C_bfS6odAXtkA
+
+Fuchs, G. (2021): Photovoltaikfreiflächenanalage nutzen. NET4ENERGY. https://www.net4energy.com/de-de/energie/photovoltaik-freiflaechenanlage
+LBO SH: Landesbauordnung Schleswig-Holstein (2009) https://www.gesetzerechtsprechung.sh.juris.de/jportal/portal/t/sko/page/bsshoprod.psml/action/portlets.jw.MainAction?p1=28&eventSubmit_doNavigate=searchInSubtreeTOC&showdoccase=1&doc.hl=0&doc.id=jlr-BauOSH2009V17P63&doc.part=S&toc.poskey=#focuspoint
+NABU: Naturschutzbund: Der naturverträgliche Ausbau der Photovoltaik. https://www.nabu.de/umwelt-und-ressourcen/energie/erneuerbare-energien-energiewende/solarenergie/04300.html
+N. N. (2021): Update 11/2021: Informationen zur aktuellen Liefersituation. BayWa r.e.	  https://solar-distribution.baywa-re.de/blog/2021/10/informationen-zur-aktuellen-liefersituation/
+
+N. N.: Photovoltaik-Freiflächenanlagen. Photovoltaik.org. https://www.photovoltaik.org/beispiele/freiflaechenanlage 
+
+Partheymueller, O. (2012): Freiflächenanlagen als Lebensraum nutzen. IBC SOLAR Blog. https://www.ibc-blog.de/2012/11/von-wegen-verbaute-flache-freiflachenanlagen-als-lebensraum-nutzen/
+
+
