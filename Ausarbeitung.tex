@@ -122,6 +122,11 @@
 \flushbottom
 %Abkürzungen definieren!
 
+\DeclareAcronym{NEA}{
+	short = NEA,
+	long = Netzersatzanlage
+}
+
 
 \acsetup{
   make-links ,
@@ -196,61 +201,84 @@
 \Blindtext
 
 \section{Betriebliche Situation}
+\label{sec:betrieb}
 \todo{Tibor}
 
-Der landwirtschaftliche Betrieb \textit{Heuwirtschaft Wildenhorst} hat sich auf die Produktion von hochwertigem Heu spezialisiert.
+Der landwirtschaftliche Betrieb \textit{Heuwirtschaft Wildenhorst} hat sich auf die Produktion und dem Verkauf von hochwertigem Heu spezialisiert.
 Dafür wird eine Heutrocknung betrieben, welche einen gewissen Energiebedarf hat.
-Derzeit benötigen 2 Lüfter jeweils 37kW\textsubscript{el} und der Entfeuchter 90kW\textsubscript{el} sowie eine Anwärmung der Luft mit ca. 100 bis 300kW\textsubscript{Wärme} über Solarthermie und Abwärme vom Stromerzeuger.
-Die Trocknung des Heus hängt natürlich von der Vegetationszeit des Grases ab, sodass die Trocknung von Mitte Mai bis Anfang September nahezu komplett ausgelastet ist und in den nächsten vier bis fünf Wochen nur zweimal für etwa 100 Stunden eingeschaltet wird.
-Die Trocknung muss Tag und Nacht laufen, da durch den Luftstrom die Qualität des Heus gesichert wird.
-Eine Verlängerung der Trocknugnszeit ist keine Option, da bei einer zu langen Trocknungszeit die Qualität leidet und die Lüfter und der Entfeuchter benötigt werden, um die nächste Charge zu trocknen.
+Derzeit benötigen 2 Lüfter jeweils 37 kW\textsubscript{el} und der Entfeuchter 90 kW\textsubscript{el} sowie eine Anwärmung der Luft mit ca. 100 bis 300 kW\textsubscript{Wärme} über Solarthermie (Absaugung der Luft zwischen Blechdach und OSB Innenverkleidung) und Abwärme der \ac{NEA}.
 
-Auf den großen Dachflächen der neueren Gebäude (BJ ab 2012, ca. 3000m\textsuperscript{2}) wurde, aufgrund der geringen Einspeisevergütung und der teilweisen Nutzung der Solarthermie, bisher keine Photovoltaikanlage installiert.
+\subsection{Saisonaler Energiebedarf}
+Die Trocknung des Heus hängt natürlich von der Vegetationszeit des Grases ab, sodass die Trocknung von Mitte Mai bis Anfang September nahezu komplett ausgelastet ist und in den nächsten vier bis fünf Wochen nur zweimal für etwa 100 Stunden eingeschaltet wird.
+Die Trocknung muss Tag und Nacht laufen, da durch den trockenen Luftstrom die Qualität des Heus gesichert wird.
+Eine Verlängerung der Trocknugnszeit ist keine Option, da bei einer zu langen Trocknungszeit die Qualität leidet und der Durchsatz der Trocknungsanlage reduziert wird.
+
+Auf den großen Dachflächen der neueren Gebäude (BJ ab 2012, ca. 3000 m\textsuperscript{2}) wurde, aufgrund der geringen Einspeisevergütung und der teilweisen Nutzung der Solarthermie, bisher keine Photovoltaikanlage installiert.
+Des weiteren kann ein Eigenverbrauch von Solarstrom nicht, bzw. nur mit hohem Aufwand, umgesetzt werden, da über eine vorhandene \ac{NEA} sehr günstig Strom erzeugt werden kann \footnote{Aus 1 l Heizöl können 4 kWh Strom gewonnen werden}.
+
+Neben der Trocknugnshalle steht eine hofeigene Fläche mit etwa 3 ha landwirtschaftlicher Nutzfläche zur Verfügung.
+An dieser Fläche führt ein Feldweg vorbei, sonstige Anlieger sind ein landwirtschaftlicher Betrieb, ein Altenteilhaus sowie weitere landwirtschaftliche Nutzflächen.
+
+\subsection{Besonderheiten NEA}
+\label{subsec:NEA}
+Eine \ac{NEA} kann, wie in diesem Fall, in einem Inselbetrieb laufen.
+In so einem Fall, hat die \ac{NEA} keine Verbindung mit dem Stromnetz und braucht, wenn nur ein Generator vorhanden ist, keine Aufwändige Synchronisierung mit anderen Erzeugern.
+Eine Aufrüstung für die Möglichkeit der Synchronisierung würde im Bereich der \ac{NEA} eine Investition von etwa 10.000 € bedeuten.
+Wenn die \ac{NEA} mit dem Stromnetz verbunden sein soll, müssen dafür Genehmigungen bei dem Netzbetreiber eingeholt werden und viele Auflagen beachtet werden.
+
 
 
 \section{Gesamtkonzept}
 \todo{Tibor}
-\Blindtext
+Die günstige Energieversorgung für den Betrieb wird unter dem Gesichtspunkt der steigenden Energiepreise eine zentrale Herausforderung für den wirtschaftlichen Erfolg sein.
+Auch wenn derzeit eine Nutzung von fossilen Energieträgern die günstigste Variante ist, wird dies, aufgrund der Politik, welche die CO\textsubscript{2}-Emissionen in den nächsten zehn Jahren deutlich reduzierne will, nicht zwangläufig bleiben.\todo{cite!}
+Aufgrund der besonderen Anforderungen, siehe \cref{sec:betrieb}, wäre eine Kombination von Photovoltaik und Stromspreicher eine mögliche Alternative.
+Mit den stark fallenden Preisen für Stromspeicher \todo{cite!} und steigenden Kraftstoffpreisen wird es einen Zeitpunkt geben, bei welchem die beschriebene Investition wirtschaftliche Vorteile bringt.
+
+\subsection{Notwendigkeit Stromspeicher}
+Wie in \cref{sec:betrieb} beschrieben, ist der Stromverbrauch sowohl am Tag als auch in der Nacht relativ hoch.
+
+
 
 \section{Herausforderungen in der Umsetzung}
 \todo{Tibor Literatur über cite einbinden!}
 Beim Bau einer Photovoltaik-Freiflächenanlage kann mit einigen Problemen bei der Umsetzung gerechnet werden.
- Vor allem sollte ein besonderes Augenmerk auf das Erlangen einer Baugenehmigung gelegt werden.
- Eine Baugenehmigung ist erforderlich, wenn gebäudeunabhängige Solaranlagen eine Höhe von 2,75 m und eine Länge von 9 m überschreiten (LBO SH § 63 Abs. 1 2009).
- Gleichzeitig ist aber auch eine Mindestfläche einer Freiflächenanlage von 20.000 m² vorgeschrieben (FUCHS 2021).
+Vor allem sollte ein besonderes Augenmerk auf das Erlangen einer Baugenehmigung gelegt werden.
+Eine Baugenehmigung ist erforderlich, wenn gebäudeunabhängige Solaranlagen eine Höhe von 2,75 m und eine Länge von 9 m überschreiten (LBO SH § 63 Abs. 1 2009).
+Gleichzeitig ist aber auch eine Mindestfläche einer Freiflächenanlage von 20.000 m\textsuperscript{2} vorgeschrieben (FUCHS 2021).
  
 Eine Baugenehmigung muss bei der zuständigen Bauaufsichtsbehörde beantragt werden.
- Aufgrund langwieriger Erstellungen von Bebauungsplänen kann die Genehmigung abhängig von der Gemeinde einen längeren Zeitraum in Anspruch nehmen.
- Aus diesem Grund ist eine frühzeitige Beantragung sehr wichtig (FUCHS 2021).
- Ist die Baugenehmigung erteilt worden, sollte auch zügig mit der Umsetzung begonnen werden; denn nach drei Jahren nach der Erteilung erlischt die Genehmigung.
- Etwaige Unterbrechungen der Bauphase sollten auch möglichst vermieden werden, denn wird die Arbeit für ein Jahr unterbrochen, erlischt die Genehmigung ebenso (LBO SH § 75 Abs. 2. 2009).
+Aufgrund langwieriger Erstellungen von Bebauungsplänen kann die Genehmigung abhängig von der Gemeinde einen längeren Zeitraum in Anspruch nehmen.
+Aus diesem Grund ist eine frühzeitige Beantragung sehr wichtig (FUCHS 2021).
+Ist die Baugenehmigung erteilt worden, sollte auch zügig mit der Umsetzung begonnen werden; denn nach drei Jahren nach der Erteilung erlischt die Genehmigung.
+Etwaige Unterbrechungen der Bauphase sollten auch möglichst vermieden werden, denn wird die Arbeit für ein Jahr unterbrochen, erlischt die Genehmigung ebenso (LBO SH § 75 Abs. 2. 2009).
 
 Bei der Auswahl einer Fläche für die Freiflächenanlage muss weiterhin beachtet werden, dass es Vorrangflächen gibt und einige Flächen vom Naturschutz her nicht dafür geeignet sind.
- In der Nähe von Naturschutzgebieten, Wasserschutzgebieten, kulturell bedeutenden Orten, Baudenkmälern und Orten mit ähnlichen Einschränkungen ist eine Errichtung von Photovoltaik-Freiflächenanlagen ausgeschlossen.
- Die Gemeinde legt bei der Genehmigung auch etwaige Auswirkungen auf die Landschaftsgestaltung und touristische Nutzung in die Gewichtung.
- Sind in unmittelbarer Nähe schon Hochspannungsleitungen oder Windkraftanlagen errichtet worden, werden diese Bauvorhaben eher genehmigt (FUCHS 2021).
+In der Nähe von Naturschutzgebieten, Wasserschutzgebieten, kulturell bedeutenden Orten, Baudenkmälern und Orten mit ähnlichen Einschränkungen ist eine Errichtung von Photovoltaik-Freiflächenanlagen ausgeschlossen.
+Die Gemeinde legt bei der Genehmigung auch etwaige Auswirkungen auf die Landschaftsgestaltung und touristische Nutzung in die Gewichtung.
+Sind in unmittelbarer Nähe schon Hochspannungsleitungen oder Windkraftanlagen errichtet worden, werden diese Bauvorhaben eher genehmigt (FUCHS 2021).
 
 Vorzugsweise werden sogenannte Konversionsflächen für eine Freiflächenanlage frei gegeben; darunter fallen zum Beispiel ehemalige militärisch genutzte Flächen oder frühere Mülldeponien.
- Landwirtschaftlich genutzte Flächen werden nur unter Ausnahmen als Freifläche ausgewiesen; so zum Beispiel in landwirtschaftlich benachteiligten Gebieten.
- Wohingegen ökologisch wertvolle sowie hochwertige landwirtschaftliche Flächen bei der Genehmigung meist abgewiesen werden (N. N.).
+Landwirtschaftlich genutzte Flächen werden nur unter Ausnahmen als Freifläche ausgewiesen; so zum Beispiel in landwirtschaftlich benachteiligten Gebieten.
+Wohingegen ökologisch wertvolle sowie hochwertige landwirtschaftliche Flächen bei der Genehmigung meist abgewiesen werden (N. N.).
  
 Im Zuge des Baugenehmigungsverfahrens werden ein umfassender Umweltbericht verfasst und die Träger öffentlicher Belange mit einbezogen.
- Der Naturschutzbund sieht in Bezug auf den Umweltbericht Nachteile für die Flora und Fauna auf der Freifläche.
- Durch punktuelle Versieglung und die Beschattung des Untergrundes aufgrund der Anlagen verändert sich der Bodenwassergehalt und es kann zu Erosion kommen, wodurch wiederum Lebensräume zerstört werden können.
- Werden um die Anlage Zäune zur Sicherung errichtet, kann sich das zum Nachteil für verschiedene Tierarten auswirken; vor allem große Tiere werden dadurch in ihrem Lebensraum beeinträchtigt.
- Durch eventuelle Wartungsarbeiten und schon in der Bauphase können seltene Tierarten wie die Großtrappe in ihrem Brutgebiet beeinträchtigt werden (NABU).
+Der Naturschutzbund sieht in Bezug auf den Umweltbericht Nachteile für die Flora und Fauna auf der Freifläche.
+Durch punktuelle Versieglung und die Beschattung des Untergrundes aufgrund der Anlagen verändert sich der Bodenwassergehalt und es kann zu Erosion kommen, wodurch wiederum Lebensräume zerstört werden können.
+Werden um die Anlage Zäune zur Sicherung errichtet, kann sich das zum Nachteil für verschiedene Tierarten auswirken; vor allem große Tiere werden dadurch in ihrem Lebensraum beeinträchtigt.
+Durch eventuelle Wartungsarbeiten und schon in der Bauphase können seltene Tierarten wie die Großtrappe in ihrem Brutgebiet beeinträchtigt werden (NABU).
  
 Diesen Problemen kann aber bestmöglich entgegengewirkt werden.
- Durch das Stilllegen der Fläche wird eventuell eine vorher intensiv landwirtschaftlich genutzte Fläche stillgelegt und nur noch extensiv bewirtschaftet; die Fläche wird nur noch regelmäßig gemäht, um die volle Funktionstüchtigkeit der Anlage zu gewährleisten, und es erfolgt keine Düngung mehr.
- Zur Pflege der Flächen können im Herbst auch Schafe genutzt werden, sodass keine Maschinen eventuelle Schäden an den Anlagen verursachen können.
- Beim Mähen kann der Zeitraum an Brutzeiträume angepasst werden und gleichzeitig können auf der Fläche Honigbienen zum Einsatz kommen, was einen Beitrag zur Artenvielfalt darstellt (PARTHEYMUELLER 2012).
+Durch das Stilllegen der Fläche wird eventuell eine vorher intensiv landwirtschaftlich genutzte Fläche stillgelegt und nur noch extensiv bewirtschaftet; die Fläche wird nur noch regelmäßig gemäht, um die volle Funktionstüchtigkeit der Anlage zu gewährleisten, und es erfolgt keine Düngung mehr.
+Zur Pflege der Flächen können im Herbst auch Schafe genutzt werden, sodass keine Maschinen eventuelle Schäden an den Anlagen verursachen können.
+Beim Mähen kann der Zeitraum an Brutzeiträume angepasst werden und gleichzeitig können auf der Fläche Honigbienen zum Einsatz kommen, was einen Beitrag zur Artenvielfalt darstellt (PARTHEYMUELLER 2012).
  
 Wird eine Freiflächenanlage in der Nähe von Wohnhäusern errichtet, sollte im Vorfeld mit den dort lebenden Eigentümern gesprochen werden.
- So kann es bei Sonnenschein zu Reflektionen auf den Solarplatten kommen und die Anwohner könnten sich in ihrem Lebensumfeld beeinträchtigt fühlen; auch könnten sie sich durch den Einschnitt in die Landschaft in ihrer Lebensqualität benachteiligt fühlen.
- Um dem entgegenzuwirken, kann eventuell ein Korridor durch die Fläche geführt werden, um keine Nachteile für Wild oder Spaziergänger zu haben (AIGNER et al. 2009: 4).
+So kann es bei Sonnenschein zu Reflektionen auf den Solarplatten kommen und die Anwohner könnten sich in ihrem Lebensumfeld beeinträchtigt fühlen; auch könnten sie sich durch den Einschnitt in die Landschaft in ihrer Lebensqualität benachteiligt fühlen.
+Um dem entgegenzuwirken, kann eventuell ein Korridor durch die Fläche geführt werden, um keine Nachteile für Wild oder Spaziergänger zu haben (AIGNER et al. 2009: 4).
  
 Vor allem zum jetzigen Zeitpunkt, wo der Ausbau von Solaranlagen immer weiter voranschreitet, sollten eventuelle Lieferengpässe bedacht werden, welche durch die Lieferschwierigkeiten auf der Asien-Europa-Route noch verstärkt werden.
- Außerdem gibt es einen Personalmangel für die Installation solcher Module, sodass der gesamte Bau weit vorausgeplant werden muss (N. N. 2021).
+Außerdem gibt es einen Personalmangel für die Installation solcher Module, sodass der gesamte Bau weit vorausgeplant werden muss (N. N. 2021).
 
 
 \section{Ökonomische Bewertung}
